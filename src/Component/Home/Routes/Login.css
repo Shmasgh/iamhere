@@ -1,0 +1,26 @@
+.mybackground{
+    background-image: url('https://cdn.hipwallpaper.com/i/90/2/zcUNKZ.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.loginme{
+    padding: 30px;
+}
+.password{
+    padding-top: 10px;
+
+
+}
+.email{
+    padding-left: 57px
+}
+.confirmer{
+    padding-left: 25px;
+    padding-top: 15px;
+
+}
+.LoginButton{
+    background-color: rgb(197, 57, 116);
+    border:none;
+}

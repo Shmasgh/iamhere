@@ -1,0 +1,12 @@
+.modal-content{
+    background-image: url('https://us.123rf.com/450wm/notjungcg/notjungcg1809/notjungcg180900229/108833454-gradient-of-pastel-color-soft-color-use-for-business-presentation-or-desktop-wallpaper-blurred-abstr.jpg?ver=6');
+    background-repeat: no-repeat;
+background-size: cover;
+}
+.changecolor{
+    background : rgb(197, 57, 116);
+    border: none;
+}
+.padding{
+    padding-top: 10px;
+}

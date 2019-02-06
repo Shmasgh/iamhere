@@ -1,0 +1,19 @@
+.Navbar{
+    display: flex;
+    color:rgb(197, 57, 116);
+    justify-content: space-around;
+    align-items: center;
+    height: 80px;
+    width:1300px
+}
+.Title1{
+    text-align: left;
+    padding:0px 650px 0px 50px;
+}
+.nav-item{
+
+border-radius:5px;
+background-color: #52d1ff;
+color:white;
+
+}

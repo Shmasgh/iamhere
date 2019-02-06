@@ -1,0 +1,131 @@
+.header {
+  display : flex;
+  background-color: white;
+}
+Button {
+  background-color: rgb(197, 57, 116)
+}
+.footer{
+  padding-top:150px;
+  background-image: linear-gradient(white, rgb(128, 157, 180));
+  margin-top: none;
+  display:flex;
+  color:rgb(73, 73, 73)
+}
+.footer-left{
+  padding:50px;
+  flex:1;
+  
+}
+.footer-center{
+  flex:1;
+  padding:50px;
+  font-size: 20px;
+}
+.footer-right{
+  flex:1;
+  padding:50px;
+}
+i{
+  padding-right: 14px;
+}
+.a-propos{
+  font-size:24px;
+}
+a{
+  color:black;
+  text-decoration: none;
+}
+.app{
+  background-color: white;
+  font-family: myFirstFont;
+
+}
+
+
+@font-face {
+  font-family: myFirstFont;
+  src: url('https://fonts.googleapis.com/css?family=Lato');
+}
+
+.cas{
+ height: 400px;
+  display:flex;
+  border-bottom: solid 2px gray;
+  border-top: solid 2px white;
+
+}
+.cas-1{
+  flex:1;
+
+  background-image: linear-gradient(to right, rgb(233, 250, 255) , rgb(255, 255, 255));
+}
+.cas-2{
+  flex:1;
+
+  background-image: linear-gradient(to left, rgb(255, 230, 230) , rgb(255, 255, 255));
+ 
+}
+.description{
+  background-color: white;
+  text-align: center;
+font-size: 25px;
+}
+.explication{
+  margin:0px;
+  
+  color: rgb(66, 56, 56)
+}
+.image{
+  display:flex;
+  position: relative;
+ 
+ 
+}
+.img{
+  overflow: hidden;
+  margin:20px 0px 0px 80px;
+
+}
+
+.button-ajouter{
+  position: absolute;
+  left: 400px;
+  top:80px;
+
+ 
+}
+.button-cherche{
+  position: absolute;
+ right: 400px;
+  top:80px;
+}
+
+
+ .btn-ajouter{
+  background-color:rgb(197, 57, 116);
+   border:none;
+   height: 60px;
+   font-size: 20px;
+
+ }
+ .btn-cherche{
+ background-color: #52d1ff;
+  border:none;
+  height: 60px;
+  font-size: 20px;
+
+ }
+ .etapes{
+   padding:20px 0px
+ }
+ .site-description{
+   padding:60px 320px;
+
+   color:rgb(121, 32, 69);
+   margin:0px
+ }
+ .fafa{
+   display: flex;
+   align-items: baseline;
+ }

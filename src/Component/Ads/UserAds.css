@@ -1,0 +1,7 @@
+.saymyname{
+    display: flex;
+    justify-content: flex-end;
+}
+.modifiier{
+    margin: 0px 10px;
+}

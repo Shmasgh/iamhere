@@ -1,0 +1,49 @@
+.Title{
+    text-align: center;
+    padding: 14px;
+    color : rgb(197, 57, 116);
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.Alert{
+    background-color: #d4edda;
+    text-align:  center;
+    font-size: 13px;
+    width: 600px;
+
+}
+.Modifini{
+    padding-left: 500px;
+}
+
+.date{
+    background-color: #d4edda;
+
+}
+
+.stars{
+    text-align: center;
+    font-size: 12px;
+    padding-top: 10px;
+}
+.imageandinformation{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.image-container{
+    height: 280px;
+}
+.clickme1{
+    background: rgb(197, 57, 116)
+}
+
+.colors{
+    background : rgb(197, 57, 116);
+    border: none;
+ 
+}
+.stars-clik{
+    display: flex;
+    justify-content: flex-end;
+}

@@ -1,0 +1,91 @@
+
+
+  .UserProfile{
+    width: 1349px;
+    text-align: center;
+    background: rgb(138, 139, 139);
+    display:  flex; 
+    justify-content: space-around;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   padding: 10px;
+  }
+  .mini-title{
+    justify-content: space-around;
+    padding: 10px;
+
+  }
+ 
+  .find{
+    padding-left:50px
+
+  }
+
+  .clickme{
+    display: flex;
+    flex-direction: column;
+
+ 
+   
+  }
+  .leme{
+    font-size: 12px;
+    width: 100px;
+  }
+ .perfect{
+   width: 162px;
+ }
+
+  .image-infos{
+    display: flex;
+    justify-content:  space-around;
+    padding: 30px;
+  }
+
+  .infos{
+    border:  solid 1px red ;
+  }
+  .profile-card{
+    width: 720px;
+  }
+
+
+  .date-remu{
+    padding-right: 300px;
+  }
+ 
+  .image-container1{
+    height: 320px;
+  }
+  .leme{
+   background : rgb(226, 41, 92);
+   border: none;
+   margin:40px;
+  
+   
+  }
+
+
+.button{
+  background : rgb(226, 41, 92);
+  border: none;
+  margin-top: 15px;
+  width: 200px;
+  height: 50px;
+}
+.button1{
+  background : rgb(214, 216, 217);
+  border-color:  #c6c8ca;
+color: #032f3f85;
+  margin-top: 2px;
+  width: 100%;
+  height: 50px;
+  text-align: left;
+  padding-left: 20px;
+}
+
+
+
+.Modifier{
+  display: flex;
+}
